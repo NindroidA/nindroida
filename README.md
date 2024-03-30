@@ -13,16 +13,17 @@ Hey there, my name is Andrew Curtis. I am currently a Cybersecurity student at t
 * Java 
 
 ### Libraries/Frameworks: 
-#### JavaScript/TypeScript
+- ### JavaScript/TypeScript
     - Node.js
     - React
     - React-Native
     - Google
     - Angular
-#### Java
+- ### Java
     - Spigot
-#### Other
+- ### Other
     - Arduino
+
 
 ## 🔗 Links
 [![githubpage](https://img.shields.io/badge/My%20Website-208ec9?style=for-the-badge&logo=react&logoColor=white)](https://github.com/NindroidA/nindroida)

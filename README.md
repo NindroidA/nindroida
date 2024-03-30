@@ -1,21 +1,28 @@
 # Welcome to my GitHub site! 👋
 
 
-## !! Under Construction !!
-
-This page is still under construction and will be changed!
 ## 🚀 About Me
 Hey there, my name is Andrew Curtis. I am currently a Cybersecurity student at the University of Louisiana. I am also working part time as a Technical Support Specialist at Ascension Episcopal School.
 
 
 ## 🛠 Skills
 
-Languages: 
-* HTML, CSS, JavaScript, TypeScript, Java, Shell.
+### Languages: 
+* HTML + CSS
+* JavaScript + TypeScript
+* Java 
 
-Libraries/Frameworks: 
-* Node.js, React, React-Native, Google, Spigot, Arduino.
-
+### Libraries/Frameworks: 
+#### JavaScript/TypeScript
+    - Node.js
+    - React
+    - React-Native
+    - Google
+    - Angular
+#### Java
+    - Spigot
+#### Other
+    - Arduino
 
 ## 🔗 Links
 [![githubpage](https://img.shields.io/badge/My%20Website-208ec9?style=for-the-badge&logo=react&logoColor=white)](https://github.com/NindroidA/nindroida)

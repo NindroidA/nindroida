@@ -26,5 +26,5 @@ Hey there, my name is Andrew Curtis. I am currently a Cybersecurity student at t
 
 
 ## 🔗 Links
-[![githubpage](https://img.shields.io/badge/My%20Website-208ec9?style=for-the-badge&logo=react&logoColor=white)](https://github.com/NindroidA/nindroida)
+[![githubpage](https://img.shields.io/badge/My%20Website-208ec9?style=for-the-badge&logo=react&logoColor=white)](https://github.com/NindroidA)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)

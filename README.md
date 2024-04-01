@@ -20,7 +20,7 @@ Hey there, my name is Andrew Curtis. I am currently a Cybersecurity student at t
     - Google
     - Angular
 - ### Java
-    - Spigot
+    - Spigot/Bukkit
 - ### Other
     - Arduino
 
